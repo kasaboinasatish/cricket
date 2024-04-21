@@ -1,0 +1,41 @@
+
+.bg {
+    background-color: #e6f6ff;
+    height: 100vh;
+    backg1round-size: cover;
+}
+
+.a {
+    background-color: #fb4e71;
+}
+
+.sa {
+    padding: 20px;
+    width: 350px;
+    color: #ffffff;
+}
+
+.b {
+    color: #323f4b;
+    font-weight: bold;
+    padding: 20px;
+}
+
+.d {
+    background-color: #ffffff;
+    margin-right: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.s {
+    font-family: Roboto;
+    color: #323f4b;
+}
+
+.d {
+    font-family: Roboto;
+    color: #888888;
+
+}
+
